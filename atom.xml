@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://vlubin.github.io/atom.xml" rel="self"/>
+  <link href="http://vlubin.github.io/"/>
+  <updated>2014-03-20T14:35:25+08:00</updated>
+  <id>http://vlubin.github.io/</id>
+  <author>
+    <name><![CDATA[Yourdfgs]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ssssss]]></title>
+    <link href="http://vlubin.github.io/blog/2014/03/20/sss/"/>
+    <updated>2014-03-20T14:20:22+08:00</updated>
+    <id>http://vlubin.github.io/blog/2014/03/20/sss</id>
+    <content type="html"><![CDATA[<h2>sgsdg</h2>
+
+<p>gsaga</p>
+
+<p><a href="http://baidu.com">sss</a></p>
+]]></content>
+  </entry>
+  
+</feed>

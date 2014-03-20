@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://vlubin.github.io/sitemap.xml 
